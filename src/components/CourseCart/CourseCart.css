@@ -1,0 +1,10 @@
+.user-choice {
+    background-color: #e0ebe8;
+    padding: 20px 16px;
+    border-radius: 6px;
+    margin-bottom: 25px;
+}
+
+.user-choice p {
+    margin-bottom: 13px;
+}

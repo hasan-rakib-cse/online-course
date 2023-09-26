@@ -1,0 +1,38 @@
+.card {
+    margin-bottom: 25px;
+}
+
+.card img {
+    width: 100%;
+    height: 100%;
+    min-height: 150px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+}
+
+.card .card-title {
+    font-size: 24px;
+}
+
+.card .card-subtitle {
+    font-size: 14px;
+    text-align: justify;
+}
+
+.card p {
+    margin-bottom: 10px;
+}
+
+.card .blockquote-footer {
+    color: brown;
+    margin-top: 0;
+    margin-bottom: 13px;
+}
+
+.card .review-rating {
+    font-size: 13px;
+}
+
+.card  .course-level {
+    font-size: 13px;
+}
